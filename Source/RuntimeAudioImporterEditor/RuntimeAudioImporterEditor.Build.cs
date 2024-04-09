@@ -18,7 +18,8 @@ public class RuntimeAudioImporterEditor : ModuleRules
 			new string[]
 			{
 				"Core",
-				"RuntimeAudioImporter"
+				"RuntimeAudioImporter",
+				"VorbisAudioDecoder"
 			}
 		);
 

@@ -60,7 +60,8 @@ public class RuntimeAudioImporter : ModuleRules
 				"CoreUObject",
 				"Engine",
 				"Core",
-				"AudioPlatformConfiguration"
+				"AudioPlatformConfiguration",
+				"VorbisAudioDecoder"
 			}
 		);
 
